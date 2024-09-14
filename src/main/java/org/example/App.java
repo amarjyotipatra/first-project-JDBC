@@ -5,10 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-/**
- * Hello world!
- *
- */
+
 public class App
 {
     public static String  LOAD_DRIVER="com.mysql.cj.jdbc.Driver";
